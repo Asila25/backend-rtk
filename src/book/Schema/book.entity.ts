@@ -10,8 +10,6 @@ export class Book {
   @Prop()
   ganre: string;
   @Prop()
-  language?: string;
-  @Prop()
   author: string;
 }
 
